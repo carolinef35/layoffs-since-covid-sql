@@ -22,8 +22,6 @@ The raw dataset was transformed using a series of SQL operations:
 5. **Dropped unnecessary columns**  
    - Removed temporary `row_num` column used for de-duplication
 
----
-
 ## Exploratory Data Analysis
 
 Several SQL queries were used to extract trends and insights:
@@ -39,16 +37,12 @@ Several SQL queries were used to extract trends and insights:
 - **Extreme cases**  
   - Companies that laid off 100% of their workforce
 
----
-
 ## Key Insights
 
 - Layoffs peaked in specific months and showed waves over the years
 - Certain companies like [example: "Meta", "Google", "Airbnb"] consistently appeared in top yearly layoff counts
 - Some startups with large funding rounds still laid off their entire workforce
 - Country-wise and stage-wise aggregations revealed which geographies and business models were most vulnerable
-
----
 
 ## Sample SQL Features Used
 
