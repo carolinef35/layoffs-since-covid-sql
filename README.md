@@ -40,7 +40,7 @@ Several SQL queries were used to extract trends and insights:
 ## Key Insights
 
 - Layoffs peaked in specific months and showed waves over the years
-- Certain companies like [example: "Meta", "Google", "Airbnb"] consistently appeared in top yearly layoff counts
+- Certain companies like Google and Amazon consistently appeared in top yearly layoff counts
 - Some startups with large funding rounds still laid off their entire workforce
 - Country-wise and stage-wise aggregations revealed which geographies and business models were most vulnerable
 
